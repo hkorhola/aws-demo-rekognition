@@ -1,0 +1,20 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    aws-sdk (2.6.32)
+      aws-sdk-resources (= 2.6.32)
+    aws-sdk-core (2.6.32)
+      aws-sigv4 (~> 1.0)
+      jmespath (~> 1.0)
+    aws-sdk-resources (2.6.32)
+      aws-sdk-core (= 2.6.32)
+    aws-sigv4 (1.0.0)
+    dotenv (2.1.1)
+    jmespath (1.3.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  aws-sdk
+  dotenv
