@@ -1,5 +1,5 @@
 # aws-rekognition-demo
-Demo Ruby app for AWS image recognition service
+Demo Ruby app for AWS image recognition service.
 
 ## How to use
 
